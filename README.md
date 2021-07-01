@@ -12,4 +12,4 @@ Stripe and product database are greats tools to setup apps fast and easily - gre
 
 ## The site mentioned below is my SellKart website
 
-Click -> [SellKart](https://chatengine.io)
+Click -> [SellKart](https://sellkart.netlify.app/)
